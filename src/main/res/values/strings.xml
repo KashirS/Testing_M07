@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Testing</string>
+    <string name="title">Main Activity Title</string>
+    <string name="next_button">Next</string>
+    <string name="back_button">Back</string>
+    <string name="logged">Logged</string>
+</resources>
